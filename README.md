@@ -9,7 +9,7 @@ This project demonstrate how to develop a React app using [vite-plugin-react-pag
 
 `npm run dev` You can now play with the local develop environment.
 
-Edit `pages/page1$.tsx` or other source files, the playground will inflect your change instantly.
+Edit `App.jsx` or other source files, the playground will inflect your change instantly.
 
 `npm run build` The app are built and served.
 
