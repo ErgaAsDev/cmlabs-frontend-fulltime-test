@@ -2,8 +2,11 @@
 
 This is a project for [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages).
 This project demonstrate how to develop a React app using [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) as framework.
+
 Tech used : React + Vite, SCSS.
+
 Dependencies : Axios, React-router, React-icons.
+
 Hooks and State Management : useState, useEffect, useReducer, useContext (Context API).
 
 link project : https://eatncook.netlify.app/
