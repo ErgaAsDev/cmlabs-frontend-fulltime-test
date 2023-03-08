@@ -5,7 +5,7 @@ This project demonstrate how to develop a React app using [vite-plugin-react-pag
 
 Tech used : React + Vite, SCSS.
 
-Dependencies : Axios, React-router, React-icons.
+Dependencies : Axios, React-router, React-icons, Sass.
 
 Hooks and State Management : useState, useEffect, useReducer, useContext (Context API).
 
