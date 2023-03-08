@@ -3,6 +3,8 @@
 This is a project for [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages).
 This project demonstrate how to develop a React app using [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) as framework.
 
+link project : https://eatncook.netlify.app/
+
 # How to use
 
 `npm install` or `pnpm install` or `yarn`
