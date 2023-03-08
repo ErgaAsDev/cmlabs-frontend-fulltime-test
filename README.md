@@ -9,7 +9,7 @@ Dependencies : Axios, React-router, React-icons, Sass.
 
 Hooks and State Management : useState, useEffect, useReducer, useContext (Context API).
 
-link project : https://eatncook.netlify.app/
+link live project : https://eatncook.netlify.app/
 
 # How to use
 
