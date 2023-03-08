@@ -57,7 +57,7 @@ const MealSingle = ({ meal }) => {
                   <span className="fw-7">Source: &nbsp;</span>
                   <a href={meal.source}>
                     {meal.source
-                      ? (meal?.source).substring(0, 40) + "..."
+                      ? (meal?.source).substring(0, 28) + "..."
                       : "Not found"}
                   </a>
                 </div>

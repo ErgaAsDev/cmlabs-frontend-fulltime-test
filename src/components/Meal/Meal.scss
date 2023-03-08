@@ -195,6 +195,10 @@
 @media screen and (max-width: 992px){
     #iframe-youtube {
         width: 80vw;
-        
+    }
+    .img-cover,
+    .details-img,
+    .details-intro{
+        width: 80vw !important;
     }
 }
