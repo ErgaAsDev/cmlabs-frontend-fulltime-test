@@ -123,7 +123,7 @@ const MealSingle = ({ meal }) => {
             </div>
             <div>
               <h6 className="fs-16">
-                Tutorial : 
+                Tutorial : <span><a href={meal?.youtube} style={{color: "#20e1ba"}}>Link</a></span>
               </h6>
               <iframe
                 width="700"
